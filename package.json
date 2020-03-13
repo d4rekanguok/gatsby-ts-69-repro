@@ -7,6 +7,7 @@
   "dependencies": {
     "gatsby": "^2.19.7",
     "gatsby-image": "^2.2.39",
+    "gatsby-plugin-graphql-codegen": "^2.4.0",
     "gatsby-plugin-manifest": "^2.2.39",
     "gatsby-plugin-offline": "^3.0.32",
     "gatsby-plugin-react-helmet": "^3.1.21",
@@ -19,6 +20,9 @@
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
+    "@types/prop-types": "^15.7.3",
+    "@types/react": "^16.9.23",
+    "@types/react-dom": "^16.9.5",
     "prettier": "^1.19.1"
   },
   "keywords": [
